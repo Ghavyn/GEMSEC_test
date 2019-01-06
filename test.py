@@ -1,6 +1,6 @@
 import numpy as np
 
-x = np.linspace(1,100,100)
+x = np.linspace(1,100,num=100)
 y = x**2
 
 import matplotlib.pyplot as plt
